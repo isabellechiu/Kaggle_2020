@@ -4,7 +4,7 @@ https://www.kaggle.com/c/digit-recognizer/overview
 Using Pytorch + CNN
 
 #Transfer Learning
-![Pretrained Model Introduction]("Pre-Trained-Model-Comparison.png")
+![Pretrained Model Introduction](Pre-Trained-Model-Comparison.png)
 
 Dogs vs. Cats
 https://www.kaggle.com/c/dogs-vs-cats
