@@ -33,3 +33,13 @@ late submission
 [LSTM_Toxic Comment Classification Challenge](https://github.com/isabellechiu/Kaggle_Competition/blob/master/lstm-toxic-comment-classification-challenge.ipynb)
 public score:0.97652
 ranking: 2955
+
+Natural Language Processing with Disaster Tweets
+```
+https://www.kaggle.com/c/nlp-getting-started/overview
+````
+First Entry! 💪 🔥
+[Natural Language Processing with Disaster Tweets](https://github.com/isabellechiu/Kaggle_Competition/blob/master/lstm-toxic-comment-classification-challenge.ipynb)
+public score:0.81949
+ranking: 383
+
