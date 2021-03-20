@@ -39,7 +39,7 @@ Natural Language Processing with Disaster Tweets
 https://www.kaggle.com/c/nlp-getting-started/overview
 ````
 First Entry! 💪 🔥
-[Natural Language Processing with Disaster Tweets](https://github.com/isabellechiu/Kaggle_Competition/blob/master/lstm-toxic-comment-classification-challenge.ipynb)
+[Natural Language Processing with Disaster Tweets](https://github.com/isabellechiu/Kaggle_Competition/blob/master/NLP/bert-nlp-with-disaster-tweets.ipynb)
 public score:0.81949
 ranking: 383
 
