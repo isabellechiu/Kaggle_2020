@@ -29,3 +29,7 @@ Toxic Comment Classification Challenge
 ```
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview
 ````
+late submission
+[LSTM_Toxic Comment Classification Challenge](https://github.com/isabellechiu/Kaggle_Competition/blob/master/lstm-toxic-comment-classification-challenge.ipynb)
+public score:0.97652
+ranking: 2955
