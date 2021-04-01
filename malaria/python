@@ -1,0 +1,29 @@
+import matplotlib
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+from sklearn.cluster import KMeans
+from multiprocessing import Pool
+import cv2
+import struct
+import scipy
+import scipy.misc
+import scipy.cluster
+import scipy.stats as st
+import statsmodels as sm
+from scipy.special import gamma as gammaf
+from scipy.optimize import fmin
+from scipy.stats import genextreme as gev
+import numpy as np 
+import pandas as pd
+import os
+
+#load the data
+root = "../input/cell_images/cell_images"
+root_uninfected = root + '/Uninfected'
+root_infected = root + '/Parasitized'
+print(os.listdir(root))
+files_uninfected = os.listdir(root_uninfected)
+files_infected = os.listdir(root_infected)
+print('{} uninfected files'.format(len(files_uninfected)))
+print('{} infected files'.format(len(files_infected)))
+
